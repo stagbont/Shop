@@ -26,17 +26,20 @@ export const categories = [
     {
         id: 1,
         img: "https://i.ibb.co/KzRknbK/Print-Dress1.png",
-         title: "Print Dress"
+        title: "Print Dress",
+        cat: "Print_Dress",
     },
     {
         id: 2,
         img: "https://i.ibb.co/BCD01zx/Print-top1.jpg",
-        title: "Print Top"
+        title: "Print Top",
+        cat: "Print_Top",
     },
     {
         id: 3,
         img: "https://i.ibb.co/qnf0cYV/Dashiki1.png",
-        title: "Dashiki Top"
+        title: "Dashiki Top",
+        cat: "Dashiki_Top"
     }
 ]
 
